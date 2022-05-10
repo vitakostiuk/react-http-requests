@@ -1,0 +1,22 @@
+.Form {
+  display: flex;
+  justify-content: center;
+}
+.Wrapper {
+  position: relative;
+}
+.Input {
+  width: 200px;
+  height: 20px;
+  padding-left: 30px;
+}
+.Btn {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  margin-left: 2px;
+  transform: translateY(-50%);
+  background-color: #ffffff;
+  cursor: pointer;
+  border: none;
+}

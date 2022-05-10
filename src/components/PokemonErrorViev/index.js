@@ -1,0 +1,1 @@
+export { PokemonErrorViev } from './PokemonErrorViev';
